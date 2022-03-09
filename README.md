@@ -1,4 +1,7 @@
 # RedditProductProposal
+
+Completed all research, wireframes, and the presentation in <3 days
+
 Multi-pronged product proposal to increase activation rates for businesses signing up through ads.reddit.com (Created using Canva)
 
 * Conducted user research and competitive analysis

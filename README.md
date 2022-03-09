@@ -1,6 +1,6 @@
 # RedditProductProposal
 
-Completed all research, wireframes, and the presentation in <3 days
+Completed all research, wireframes, and the presentation in a 3-day window
 
 Multi-pronged product proposal to increase activation rates for businesses signing up through ads.reddit.com (Created using Canva)
 
